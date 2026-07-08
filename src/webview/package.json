@@ -14,10 +14,10 @@
     "@tailwindcss/vite": "^4.0.15",
     "@vscode-elements/elements": "^1.0.0-pre.12",
     "@vscode-elements/react-elements": "^0.9.0",
-    "react": "^19.0.0",
-    "react-dom": "^19.1.1",
+    "react": "^19.1.1",
+    "react-dom": "^19.0.0",
     "react-icons": "^5.5.0",
-    "tailwindcss": "^4.1.13"
+    "tailwindcss": "^4.0.15"
   },
   "devDependencies": {
     "@types/react": "^19.0.12",
